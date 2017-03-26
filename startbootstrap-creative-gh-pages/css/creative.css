@@ -419,5 +419,11 @@ body {
 
 
 .portfolio-box .img-responsive {
-  height: 200px !important;
+ 
+  width: 100% !important;
+  margin: 0 auto !important;
+}
+.helpme {
+  height: 320px !important;
+  overflow: hidden !important;
 }
