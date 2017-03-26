@@ -411,9 +411,13 @@ img::-moz-selection {
   color: white;
   background: transparent;
 }
+
 body {
   webkit-tap-highlight-color: #222222;
 }
-.img-responsive {
+
+
+
+.portfolio-box .img-responsive {
   height: 200px !important;
 }
