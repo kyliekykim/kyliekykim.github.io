@@ -414,7 +414,7 @@ img::-moz-selection {
 body {
   webkit-tap-highlight-color: #222222;
 }
-.img-responsive {
+.img-responsive .portfolio-box {
   width: 300px;
   height: 200px;
   margin: 0 auto;
